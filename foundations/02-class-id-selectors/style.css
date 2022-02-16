@@ -1,0 +1,15 @@
+.odd{
+    background-color: palevioletred;
+    font : "Verdana", "DejaVu Sans", "sans-serif";
+}
+.odd.cooler{
+    font-size: 24px;
+}
+#fd {
+    color: blue;
+}
+#sd {
+    background-color: limegreen;
+    font-size: 24px;
+    font-weight: bold;
+}
